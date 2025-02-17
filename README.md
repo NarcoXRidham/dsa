@@ -64,6 +64,6 @@ Contributions are welcome! If you’d like to contribute:
 ## 📌 License
 
 This repository is licensed under the [MIT License](./LICENSE).  
-Feel free to use the code for learning and development purposes.
+Feel free to use the code for learning and development purposes!
 
 ---
