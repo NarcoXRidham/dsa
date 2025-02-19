@@ -55,9 +55,9 @@ int search(vector<int>& nums,int target){
 }
 int main(){
     vector<int>v={12,14,16,2,4,6,8,10};
-    vector<int>v1={1,3};
+    // vector<int>v1={1,3}; /*Important test case */
     int target=3;
-    int x=search(v1,target);
+    int x=search(v,target);
     cout<<x<<endl;
     return 0;
 }
