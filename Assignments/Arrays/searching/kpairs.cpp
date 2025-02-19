@@ -21,6 +21,10 @@ int kpair(vector<int>&nums,int k){
         else{
             j++;
         }
+        if(i==j)
+        {
+            j++;
+        }
     }
     return ans.size();
 }
